@@ -1,0 +1,7 @@
+Vitamin C Serum,Garnier,200,1000.00,France
+Skin Cleanser,Cetaphil,100,280.00,Switzerland
+Sunscreen,Aqualogica,200,700.00,India
+Moisturizing Cream,Neutrogena,137,500.00,USA
+Face Mask,L'Oreal,800,400.00,France
+Anti-Aging Serum,Olay,700,800.00,USA
+Makeup Remover,Garnier,130,300.00,France
