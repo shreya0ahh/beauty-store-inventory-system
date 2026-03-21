@@ -26,4 +26,15 @@ It helps manage products, process sales, restock inventory, and generate invoice
 ## How to Run
 1. Clone or download this repository
 2. Open the project folder
-3. Run the main file
+3. Run the main file:
+   python main.py
+
+4. Follow the menu instructions in the terminal
+
+## Future Improvements
+- Add graphical user interface (GUI)
+- Connect to a database
+- Add user authentication system
+
+## Author
+Shreya Khanal
